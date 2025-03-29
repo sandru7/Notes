@@ -155,11 +155,11 @@ A **Shopify-based ecommerce application** designed for seamless Fast Fashion Han
 
 
 <div align="center">
-<a href="https://www.linkedin.com/in/saravananselvakumar/" target="_blank">
+<a href="https://www.linkedin.com/in/sandru-k-b6419b223/" target="_blank">
     <img src="https://img.shields.io/badge/Let's%20Connect-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=FFFFFF" />
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:saravananselvakumar06@gmail.com">
+<a href="mailto:sandru71220@gmail.com">
     <img src="https://img.shields.io/badge/Message%20Me-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 </div>
