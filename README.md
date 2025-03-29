@@ -1,137 +1,83 @@
-<div align="center"> 
-  <h1> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F75C7E&center=true&width=600&lines=🚀+Welcome+to+My+Profile!;📱+iOS+Developer;Swift+%7C+SwiftUI+%7C+UIKit;Passionate+about+Building+Awesome+Apps!"> 
-  </h1>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F75C7E&center=true&width=600&lines=🚀+Welcome+to+My+Profile!;📱+iOS+Developer;Swift+%7C+SwiftUI+%7C+UIKit;Passionate+about+Building+Awesome+Apps!" />
+</p>
 
-## ⭐️ Fun Fact:
+---
+
+### ⭐ Fun Fact:
 > ⚡ "Code is like humor. When you have to explain it, it’s bad." 😆
 
 ---
 
-## 🧑🏻‍💻 About Me  
-🚀 iOS Developer with a passion for creating high-quality mobile applications using Swift, SwiftUI, and UIKit.  
-💡 Experienced in designing visually engaging UI/UX and implementing robust API integrations.  
-🔧 Skilled in version control (Git, GitHub, Bitbucket) and translating Figma designs into functional apps.  
-🔥 Always exploring the latest Apple technologies to enhance user experiences.  
-🤝 Open to collaborations with backend developers & designers to build seamless apps.  
+## 🧑🏻‍💻 About Me
+🚀 **iOS Developer** passionate about Swift, SwiftUI, and UIKit.  
+💡 Skilled in UI/UX, API integrations & building engaging mobile apps.  
+🔧 Experienced with Git, GitHub, Figma & Cocoapods.  
+🔥 Always exploring the latest Apple technologies.  
+🤝 Open to collaborations with backend developers & designers.
 
 ---
 
 ## 📩 Get in Touch  
-
-<div align="center">  
-  <a href="mailto:sandru71220@gmail.com"> 
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> 
-  </a> 
-  <a href="https://www.linkedin.com/in/sandru-k-b6419b223/" target="_blank"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-  </a> 
-  <a href="https://leetcode.com/u/Sandru____7/" target="_blank"> 
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> 
-  </a> 
-</div>
-
----
-
-## 🛠 Skills  
-
-### Languages:
-- Swift, Java, JavaScript  
-
-### Frameworks:
-- UIKit, SwiftUI, CoreData, Combine, AVFoundation  
-
-### Tools:
-- Xcode, VS Code, Postman, Figma, Sourcetree, Git, Cocoapods, SwiftPM  
-
-### Services:
-- Firebase, RESTful APIs, StoreKit, CloudKit, Push Notifications  
-
-### Other:
-- Agile Development, App Store Submission, CI/CD  
-
-<div align="center">  
-  <img src="https://skillicons.dev/icons?i=swift,java,javascript,html,css" /><br> 
-  <img src="https://skillicons.dev/icons?i=firebase,figma,bootstrap,eclipse,postman,git,vscode" /> 
-</div>
+<p align="center">
+  <a href="mailto:sandru71220@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/sandru-k-b6419b223/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Sandru____7/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📌 Projects  
+## 🛠 Skills
+**Languages:** Swift, Java, JavaScript  
+**Frameworks:** UIKit, SwiftUI, CoreData, Combine, AVFoundation  
+**Tools:** Xcode, VS Code, Postman, Git, Figma, SwiftPM  
+**Services:** Firebase, REST APIs, StoreKit, CloudKit, Push Notifications  
+**Other:** Agile Development, App Store Submission, CI/CD  
 
-### 🔹 Vundee: Peer-to-Peer Car Sharing  
-An innovative car rental marketplace connecting private car owners with renters via a mobile app.  
-
-✅ **Key Features:**  
-- Car Rental Marketplace – Rent private vehicles easily.  
-- Airport Drop-offs – Convenient pickup & drop-off.  
-- Commercial Vehicle Management – Streamlined rental for businesses.  
-
-💿 **Tech Used:**  
-- LocationManager | SocketIO | App Storage | Push Notifications | Finix Pay  
-
----
-
-### 🔹 EcademicTube: E-Learning Chat App  
-A cutting-edge e-learning app enhancing online education with real-time chat & task management.  
-
-✅ **Key Features:**  
-- Study Partner – Seamless student collaboration.  
-- Task Module – Manage assignments & track progress.  
-
-💿 **Tech Used:**  
-- Realm | SocketIO | App Storage | Push Notifications | Stripe Pay, Razor Pay  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=swift,java,javascript,html,css" /><br>
+  <img src="https://skillicons.dev/icons?i=firebase,figma,bootstrap,eclipse,postman,git,vscode" />
+</p>
 
 ---
 
-### 🔹 Street Smith: Clothing Ecommerce App  
-A **Shopify-powered** ecommerce app for seamless fashion shopping.  
+## 📌 Projects
+### Vundee: Peer-to-Peer Car Sharing  
+🚗 Car rental marketplace for private owners.  
+🔹 **Tech:** LocationManager, SocketIO, App Storage, Push Notifications, Finix Pay  
 
-✅ **Key Features:**  
-- Shopify Integration – Real-time inventory & secure payments.  
-- Multi-Payment Support – Shopify Payments, Razorpay, FasterCheckout.  
-- Order Tracking – Get real-time purchase updates.  
+### EcademicTube: E-Learning Chat App  
+🎓 Real-time chat & task management for students.  
+🔹 **Tech:** Realm, SocketIO, App Storage, Stripe Pay, Razor Pay  
 
-💿 **Tech Used:**  
-- Realm | Shopify API | Secure Payments | Inventory Management | Push Notifications  
-
----
-
-### 🔹 RIJAC - India’s Handbag Store  
-A **Shopify-based** ecommerce app for fast-fashion handbags.  
-
-✅ **Key Features:**  
-- Seamless Shopping Experience – Browse & buy the latest trends.  
-- Real-Time Inventory Updates – Stay informed about stock availability.  
-- Secure Transactions – Multiple payment gateways.  
-
-💿 **Tech Used:**  
-- Realm | Shopify API | Secure Payments | Inventory Management | Push Notifications  
+### Street Smith: Clothing Ecommerce  
+🛍️ Shopify-based shopping app with secure payments.  
+🔹 **Tech:** Realm, Shopify API, Secure Payments, Inventory Management  
 
 ---
 
 ## 🎓 Education  
-📚 **Bachelor of Engineering** – Saveetha Engineering College, Chennai (2022) | **CGPA:** 7.58  
+📚 **Bachelor of Engineering** – Saveetha Engineering College, Chennai (2022)  
+📜 **Certifications:**  
+🎖️ Core Java (Qapiders) | 🎖️ SQL (Udemy) | 🎖️ Manual Testing (Qapiders)
 
 ---
 
-## 📜 Certifications  
-🎖️ Core Java Certification – Qapiders (02/2023)  
-🎖️ Manual Testing – Qapiders (02/2023)  
-🎖️ SQL – Udemy (02/2023)  
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&duration=4000&pause=1000&color=f05137&center=true&vCenter=true&width=600&height=70&lines=Thanks+for+Stopping+By!+✌️;Let’s+Connect+and+Build+Awesome+Apps!+🚀">
+</h3>
 
----
-
-<h3 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&duration=4000&pause=1000&color=f05137&center=true&vCenter=true&width=600&height=70&lines=Thanks+for+Stopping+By!+✌️;Let’s+Connect+and+Build+Awesome+Apps!+🚀"> 
-</h3> 
-
-<div align="center">  
-  <a href="https://www.linkedin.com/in/sandru-k-b6419b223/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Let's%20Connect-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=FFFFFF" /> 
-  </a> 
-  <a href="mailto:sandru71220@gmail.com"> 
-    <img src="https://img.shields.io/badge/Message%20Me-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=EA4335" /> 
-  </a> 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sandru-k-b6419b223/" target="_blank">
+    <img src="https://img.shields.io/badge/Let's%20Connect-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=FFFFFF" />
+  </a>
+  <a href="mailto:sandru71220@gmail.com">
+    <img src="https://img.shields.io/badge/Message%20Me-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+</p>
