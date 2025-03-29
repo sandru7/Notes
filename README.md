@@ -1,4 +1,4 @@
-# 👋🏻 Hi, I'm **Saravanan** 🧑🏻‍💻
+# 👋🏻 Hi, I'm **Sandru** 🧑🏻‍💻
 
 <div align="center">
   <h1>
@@ -24,18 +24,18 @@
 
 ## 📩 **Get in Touch**  
 
-📧 **Email:** [saravananselvakumar06@gmail.com](mailto:saravananselvakumar06@gmail.com)  
-🔗 **LinkedIn:** [linkedin/saravananselvakumar](https://www.linkedin.com/in/saravananselvakumar/)  
-🎯**LeetCode:** [leetcode/SaravananSelvakumar](https://leetcode.com/u/saravananselvakumar/)  
+📧 **Email:** [sandru71220@gmail.com](mailto:sandru71220@gmail.com)  
+🔗 **LinkedIn:** [linkedin/sandru](https://www.linkedin.com/in/sandru-k-b6419b223/)  
+🎯**LeetCode:** [leetcode/sandru](https://leetcode.com/u/Sandru____7/)  
 
 <div align="center"> 
-  <a href="mailto:saravananselvakumar06@gmail.com">
+  <a href="mailto:sandru71220@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/saravananselvakumar/" target="_blank">
+  <a href="https://www.linkedin.com/in/sandru-k-b6419b223/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-<a href="https://leetcode.com/u/saravananselvakumar/" target="_blank">
+<a href="https://leetcode.com/u/Sandru____7/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 </div>
@@ -59,6 +59,20 @@
 --- 
 
 ## 📌 **Projects**  
+
+### [Vundee: Peer-to-Peer Car Sharing](https://apps.apple.com/us/app/appideasapp/id6476480047)  
+An innovative car rental marketplace designed to connect private car owners with renters through a mobile app, featuring airport drop-offs and commercial vehicle management.
+
+**Key Features:**  
+✅ Car Rental Marketplace: Created a platform for private car owners to rent out their vehicles via a mobile app, including features like airport drop-offs and commercial vehicle management.
+✅ Task Management System: Developed a module that allows users to manage assignments, set deadlines, and track progress efficiently.
+
+**Tech Used:**  
+- 💿 LocationManager  
+- 🎨 SocketIO  
+- 🏦 App Storage  
+- 🎁 Push notification  
+- 💰 Finix Pay
 
 ### [Ecademictube: Study Partner & EcademicTube: Task](https://apps.apple.com/us/app/appideasapp/id6476480047)  
 An innovative **e-learning chat application** designed to enhance online education by integrating real-time communication and task management features.  
