@@ -60,7 +60,7 @@
 
 ## 📌 **Projects**  
 
-### [Vundee: Peer-to-Peer Car Sharing](https://apps.apple.com/us/app/appideasapp/id6476480047)  
+### [Vundee: Peer-to-Peer Car Sharing](https://apps.apple.com/us/app/vundee-owner/id1668755419)  
 An innovative car rental marketplace designed to connect private car owners with renters through a mobile app, featuring airport drop-offs and commercial vehicle management.
 
 **Key Features:**  
